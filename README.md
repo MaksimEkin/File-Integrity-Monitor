@@ -4,7 +4,7 @@ File Integrity Monitor is written to be used by Blue Team. It can be used in eve
 
 **What Can the Script Do?**
 
-The script recursivelly scan the given directory tree (default is from where the driver.py is). Then, script will log any file changes including;
+The script recursively scan the given directory tree (default is from where the driver.py is). Then, script will log any file changes including;
  1. Modified files
  2. Removed files
  3. Added files
