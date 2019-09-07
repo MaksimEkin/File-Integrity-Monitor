@@ -1,6 +1,6 @@
 ##  **[File-Integrity-Monitor](https://github.com/MaksimEkin/File-Integrity-Monitor)**
 
-File Integrity Monitor is written to be used by Blue Team. It can be used in events such as CTE; however, you can also use the code to monitor integrity of your files. 
+File Integrity Monitor is written to be used by Blue Team. It can be used in events such as CCDC; however, you can also use the code to monitor integrity of your files. 
 
 **What Can the Script Do?**
 
@@ -38,7 +38,7 @@ We will assume you are running the script on Ubuntu for the rest of the document
 
  * You may monitor the integrity of the files that may have PII. In this case, you can place the script where your files live, and create a crontab or use task scheduler to run the script. 
  *  You can use the script to monitor the files stored in the web app. 
- * If you are in the Blue Team at a CTE competition, you can use this script to monitor your server and easily see which files modified. 
+ * If you are in the Blue Team at a CCDC competition, you can use this script to monitor your server and easily see which files modified. 
 
 **Example Crontab Setup**
 
