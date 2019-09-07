@@ -3,13 +3,15 @@
 File Integrity Monitor is written to be used by Blue Team. It can be used in events such as CTE; however, you can use the code to monitor integrity of your files. 
 
 **What Can the Script Do?**
+
 The script will log any file changes including;
  1. Modified files
  2. Removed files
  3. Added files
 
 **How to Use?**
-We will assume you are running the script on Ubuntu.
+
+We will assume you are running the script on Ubuntu for the rest of the documentation.
 * Make sure you have python 3 installed.
 	* `sudo apt-get install python`
 * Make sure you have the python libraries installed.
