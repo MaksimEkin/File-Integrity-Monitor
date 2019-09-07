@@ -5,7 +5,7 @@
 driver.py
 
 Recursive File Integrity Checker
-Developed to be used in CDE competitions for Blue Teaming
+Developed to be used in CTF or CCDC competitions for Blue Teaming
 
 Creates alerts for:
         - added files
