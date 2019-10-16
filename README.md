@@ -1,6 +1,6 @@
 ##  **[File-Integrity-Monitor](https://github.com/MaksimEkin/File-Integrity-Monitor)**
 
-File Integrity Monitor is written to be used by Blue Team. It can be used in events such as CTF or CCDC; however, you can also use the code to monitor integrity of your files. 
+File Integrity Monitor is written to be used by Blue Team. It can be used in events such as CDE; however, you can also use the code to monitor integrity of your files. 
 
 **What Can the Script Do?**
 
